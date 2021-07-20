@@ -8,4 +8,12 @@ h2{
    font-family: Arial;
    position: relative;
    }
-
+.black-background{
+   background-color: black;
+}
+.white-background{
+   background-color:whitesmoke;
+}
+.float{
+   float: right;
+}
